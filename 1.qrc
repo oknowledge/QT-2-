@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/2.png</file>
+        <file>image/case1.png</file>
+        <file>image/ggeg.gif</file>
+        <file>image/fan.gif</file>
+        <file>image/car.png</file>
+        <file>image/lan1.png</file>
+        <file>image/lan2.png</file>
+        <file>image/780.jpg</file>
+        <file>image/OIP-C.jpg</file>
+        <file>image/PM2.5.png</file>
+        <file>image/LeYqwaor4E.jpg</file>
+        <file>image/fQSxRnrMhJ_small.jpg</file>
+        <file>image/smart.png</file>
+        <file>image/q.gif</file>
+        <file>image/night.jpg</file>
+        <file>image/sun.png</file>
+    </qresource>
+</RCC>
